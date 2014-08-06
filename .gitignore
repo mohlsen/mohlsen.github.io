@@ -1,0 +1,5 @@
+# Mac OS X files that are not needed
+.DS_Store
+
+# WebStorm IDE project files
+/.idea/
